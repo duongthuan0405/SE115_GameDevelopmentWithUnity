@@ -169,7 +169,7 @@ public class GameManager : MonoBehaviour
             if (numberOfInfiniteSpawners > 0)
             {
                 Debug.Log("There are " + numberOfInfiniteSpawners + " infinite spawners " + " so the level will always be winnable, "
-                    + "\nhowever you sshould still playtest for timely completion");
+                    + "\nhowever you should still playtest for timely completion");
             }
             else if (enemiesToDefeat > numberOfEnemiesFoundAtStart)
             {

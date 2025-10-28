@@ -162,7 +162,6 @@ public class UIManager : MonoBehaviour
     private void Start()
     {
         SetUpEventSystem();
-        SetUpUIElements();
         UpdateUI();
     }
 
