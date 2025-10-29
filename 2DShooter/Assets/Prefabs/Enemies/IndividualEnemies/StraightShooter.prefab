@@ -152,9 +152,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   teamId: 1
-  defaultHealth: 3
-  maximumHealth: 3
-  currentHealth: 3
+  defaultHealth: 5
+  maximumHealth: 5
+  currentHealth: 5
   invincibilityTime: 0
   isAlwaysInvincible: 0
   useLives: 0

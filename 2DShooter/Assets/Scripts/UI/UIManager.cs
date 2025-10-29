@@ -132,6 +132,7 @@ public class UIManager : MonoBehaviour
         SetUpUIElements();
         foreach (UIelement uiElement in UIelements)
         {
+            
             uiElement.UpdateUI();
         }
     }

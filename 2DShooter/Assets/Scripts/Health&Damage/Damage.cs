@@ -108,5 +108,6 @@ public class Damage : MonoBehaviour
                 }
             }
         }
+        GameManager.UpdateUIElements();
     }
 }

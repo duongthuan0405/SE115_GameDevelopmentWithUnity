@@ -24,12 +24,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6040864236889933652}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.39550126, y: -0.12311077, z: -1.1641567}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6040864236889933653
 MonoBehaviour:
@@ -43,4 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4035654639904343bd9b35a2e920a2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newCursorSprite: {fileID: 2800000, guid: ed4e900122b637b46a50862e4ce957d6, type: 3}
+  newCursorSprite: {fileID: 2800000, guid: 37394102527191243b26bf5a6930b795, type: 3}

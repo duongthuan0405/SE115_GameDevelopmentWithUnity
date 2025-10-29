@@ -6,7 +6,7 @@ using UnityEngine;
 /// This class is a base class meant to be inherited from so multiple differetn UpdateUI functions can be called
 /// to handle various cases
 /// </summary>
-public class UIelement : MonoBehaviour
+public abstract class UIelement : MonoBehaviour
 {
     /// <summary>
     /// Description:
